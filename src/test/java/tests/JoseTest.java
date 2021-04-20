@@ -1,5 +1,13 @@
 package tests;
 
-public class JoseTest {
+import org.testng.annotations.Test;
+import utilities.TestBase;
+
+public class JoseTest extends TestBase {
+
+    @Test
+    public void test1(){
+
+    }
 
 }
