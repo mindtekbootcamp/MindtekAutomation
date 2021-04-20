@@ -6,6 +6,11 @@ import utilities.TestBase;
 public class JoseTest extends TestBase {
 
     @Test
+    public void test1(){
+
+    }
+
+    @Test
 
     public void test02(){
 
