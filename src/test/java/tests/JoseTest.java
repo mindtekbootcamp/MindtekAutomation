@@ -10,4 +10,10 @@ public class JoseTest extends TestBase {
 
     }
 
+    @Test
+
+    public void test02(){
+
+    }
+
 }
